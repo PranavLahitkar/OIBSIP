@@ -1,10 +1,10 @@
 package codsoft;
 import java.util.*;
 
-public class number_game_codsoft {
+public class number_game_OIBSIP{
 	
 	
-	public number_game_codsoft(int ch){
+	public number_game_OIBSIP(int ch){
 		
 		Scanner sc=new Scanner(System.in);
 		int score=0;
@@ -55,7 +55,7 @@ public class number_game_codsoft {
 
 	public static void main(String[] args) {
 		
-		number_game_codsoft codesoft=new number_game_codsoft(5);//passed the number of chances to constructore
+		number_game_OIBSIP ob=new number_game_OIBSIP(5);//passed the number of chances to constructore
 		
 	}
 
