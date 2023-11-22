@@ -1,4 +1,3 @@
-package codsoft;
 import java.util.*;
 
 public class number_game_OIBSIP{
